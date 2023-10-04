@@ -1,0 +1,23 @@
+* {
+	background-color: white;
+	box-sizing: border-box;
+
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+main {
+	background-color: white;
+	height: 100vh;
+	width: 100vw;
+	overflow: hidden;
+
+	
+}
+h1 {
+	text-align: center;
+	margin-top: 35vh;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: rgb(132, 132, 251);
+}
